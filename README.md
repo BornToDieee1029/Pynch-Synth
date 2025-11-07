@@ -1,6 +1,6 @@
-# Lifeline Hand-Gesture Synth
+# Hand-Gesture Synth
 
-Lifeline is a real-time **AI-vision musical instrument** that turns your hand gestures into MIDI notes.
+Pynch Synth is a real-time **AI-vision musical instrument** that turns your hand gestures into MIDI notes.
 It uses **MediaPipe Hands** for landmark tracking, **OpenCV** for visuals, and **MIDI (mido + python-rtmidi)** to play any virtual instrument in your DAW.
 
 ---
